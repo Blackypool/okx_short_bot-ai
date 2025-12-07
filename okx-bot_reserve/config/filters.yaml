@@ -1,0 +1,6 @@
+filters:
+  minvolumeusd: 25000000
+  maxcorr: 0.2
+  manipulation:
+    wick_threshold: 3.0
+    threshold_anomalies: 5

@@ -1,0 +1,5 @@
+schedule:
+  scan_interval: 120
+  lowliquidity_hours:
+    start: 3
+    end: 7

@@ -1,0 +1,9 @@
+bot:
+  name: OKX Intraday Short Bot
+  version: 1.0.0
+  mode: signalonly
+  verbose: true
+  loglevel: INFO
+exchange:
+  name: OKX
+  sandbox: false
